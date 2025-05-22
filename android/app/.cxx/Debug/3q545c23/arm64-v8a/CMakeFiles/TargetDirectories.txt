@@ -1,0 +1,2 @@
+C:/Users/prana/OneDrive/Desktop/SwasthaPath/swasthapath/android/app/.cxx/Debug/3q545c23/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/prana/OneDrive/Desktop/SwasthaPath/swasthapath/android/app/.cxx/Debug/3q545c23/arm64-v8a/CMakeFiles/rebuild_cache.dir
